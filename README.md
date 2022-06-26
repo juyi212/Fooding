@@ -1,7 +1,7 @@
 <p align="center">
 <img src="images/logo.png">
 </p>
-<h1 font-weight:bold> Fooding   ![Generic badge](https://img.shields.io/badge/version-1.1.1-orange.svg)</h1><br>
+<h1 font-weight:bold> Fooding </h1><br>
   
 # About Fooding
 
@@ -37,6 +37,10 @@
 ## __Project Structure__
 
 <img src="images/Structure.png">
+
+# Fooding의 역사 (Notion)
+📙 https://www.notion.so/Fooding-b615b047f68b4ebea93bc54391000b3d
+<br>
 
 # Install
 
